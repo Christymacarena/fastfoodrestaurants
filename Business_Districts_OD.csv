@@ -1,0 +1,53 @@
+﻿OBJECTID,NAME,Shape_Length,WEBSITE,MEMBER,ADDRESS1,ADDRESS2,CITY,STATE,ZIPCODE,OVERLAP,TYPE,ONI_ID
+1,Northwest Industrial,24323.1184245938,http://nwindustrial.org/,Yes,3165 NW Yeon Ave,,Portland,OR,97210,No,Business District,27
+2,Soul District,23854.6496455236,http://www.nnebaportland.org/,Yes,PO Box 11565,<Null>,Portland,OR,97211,Yes,Business District,26
+3,Swan Island,16108.6446190851,http://ventureportland.org/business-districts/our-members/swan-island/,No,<Null>,<null>,Portland,OR,<null>,No,Emerging District,
+4,Parkrose,33534.5821952374,http://parkrosebusiness.org/,Yes,PO Box 301326,<Null>,Portland,OR,97294,Yes,Business District,28
+5,Portland International District,14473.3519959272,None,No,<Null>,<Null>,Portland,OR,<Null>,Yes,Emerging District,
+6,Beaumont,4591.80176064904,http://beaumontvillagepdx.com/,Yes,3519 NE 15th Ave ,#540,Portland,OR,97212,No,Business District,2
+7,Gateway Area,25451.1623642349,https://gatewaybusiness.org/,Yes,"11124 NE Halsey Street, PMB 478",PMB #478,Portland,OR,97220,Yes,Business District,11
+8,Hollywood Boosters,9190.91511673721,http://hollywoodpdx.com/,No,2000 NE 42nd Ave,PMB #388,Portland,OR,97213,Yes,Business District,16
+9,Nob Hill,8736.07204604727,http://nwpdxnobhill.com/,Yes,25 NW 23rd Pl,"Suite 6, PMB #217",Portland,OR,97210-5580,Yes,Business District,21
+10,Pearl District ,7258.85655842421,http://explorethepearl.com/,Yes,PO Box 6767,,Portland,OR,97228,Yes,Business District,29
+11,Lloyd District,7124.41904285637,https://www.lcapdx.org/,Yes,PO Box 6762,<Null>,Portland,OR,97228,Yes,Business District,18
+12,Central Eastside Industrial,10703.517795961,http://ceic.cc/,Yes,PO Box 14251,<Null>,Portland,OR,97293-0251,No,Business District,4
+13,Montavilla/East Tabor,10642.870466919,https://metba.org/,Yes,PO Box 33342,<Null>,Portland,OR,97292-3342,Yes,Business District,19
+14,Belmont Area,12601.1693639786,http://belmontdistrict.org/,Yes,"c/o SE Uplift, 3534 SE Main St", ,Portland,OR,97214,No,Business District,3
+15,Hawthorne Boulevard,12891.9840972802,http://hawthornepdx.com/,Yes,PO Box 15271,<Null>,Portland,OR,97293-1271,No,Business District,14
+16,Division/Clinton,11714.4336985075,http://divisionclinton.com/,Yes,"c/o SE Uplift, 3534 SE Main St",<Null>,Portland,OR,"97214
+",No,Business District,6
+17,Greater Brooklyn,14125.8840658869,http://greaterbrooklynba.com/,Yes,"PO Box 42411
+",<Null>,Portland,OR,"97242-0411
+",No,Business District,13
+18,Midway,36864.9600260001,http://midwaybusiness.org/,Yes,11918 SE Division St ,# 352,Portland,OR,97266,Yes,Business District,23
+19,Sellwood Moreland,15101.304513246,http://www.sellwoodmoreland.com/,Yes,PO Box 82001,<Null>,Portland,OR,97282,No,Business District,25
+20,Woodstock,15982.8181039723,http://woodstockbiz.com/,Yes,4207 SE Woodstock Blvd,PMB #130,Portland,OR,97206,No,Business District,33
+21,Hillsdale,10339.0506340765,http://ventureportland.org/business-districts/our-members/hillsdale/,Yes,PO Box 80885,,Portland,OR,97280,No,Business District,15
+22,Multnomah Village,7041.69663404881,http://multnomahvillage.org/,Yes,PO Box 80163,<Null>,Portland,OR,97280-1163,No,Business District,20
+23,South Portland,18592.4054874523,http://www.southportlandba.com/,No,PO Box 69072,<Null>,Portland,OR,97239,No,Business District,36
+24,Kenton,9808.83843591877,http://kentonbusiness.com/,Yes,2209 N. Schofield,<Null>,Portland,OR,97217,No,Business District,17
+25,Lents Grown,20559.3055550779,https://www.lentsgrown.com/,Yes,10111 SE Reedway St,<Null>,Portland,OR,97266,Yes,Business District,51
+26,Cully Boulevard Alliance,11443.0365451942,http://cullyblvdalliance.org/,No,5135 Northeast Columbia Blvd,<Null>,Portland,OR,97218,Yes,NPI/Main Street,46
+27,Division Midway Alliance,12205.2683894805,http://divisionmidway.org/,No,11918 SE Division St,PMB #386,Portland,OR,97266,Yes,NPI/Main Street,47
+28,Historic Parkrose,7307.53800531638,http://historicparkrose.com/,Yes,11036 NE Sandy Blvd,<Null>,Portland,OR,97220,Yes,NPI/Main Street,48
+29,Alberta Main Street,5707.51149105412,http://albertamainst.org/,No,1722 NE Alberta St,<Null>,Portland,OR,97211,Yes,NPI/Main Street,39
+30,NE Broadway,8841.78965345885,http://www.nebroadway.com/,Yes,1631 NE Broadway,#449,Portland,OR,97232,Yes,Business District,38
+31,Rosewood Initiative,11429.1422101072,http://rosewoodinitiative.org/,No,16126 SE Stark St,<Null>,Portland,OR,97233,Yes,NPI/Main Street,55
+32,Historic Mississippi Avenue,3358.00223595179,http://mississippiave.com/,No,PO Box 11106,<Null>,Portland,OR,97211,No,Business District,24
+33,42nd Avenue,5400.83556428719,http://ventureportland.org/business-districts/our-members/42nd-avenue/,No,<Null>,<Null>,Portland,OR,<Null>,Yes,Emerging District,
+34,Overlook Villiage,5974.9674780232,None,No,<Null>,<Null>,Portland,OR,<Null>,No,Emerging District,
+35,University Park,13739.6544263043,None,No,4784 N. Lombard,"Suite B, PMB 180",Portland,OR,97203,No,Emerging District,56
+36,Woodlawn,5405.31191276582,None,No,<Null>,<Null>,Portland,OR,<Null>,Yes,Emerging District,
+37,Goose Hollow,5309.03714241714,http://ventureportland.org/business-districts/our-members/goose-hollow-2/,No,PO Box 915,<Null>,Portland,OR,97207,Yes,Business District,12
+38,Stadium District,4523.84306872672,http://www.stadiumdistrictpdx.biz/,Yes,"c/o Venture Portland, 1125 SE Madison St",Suite 112,Portland,OR,97214,Yes,Business District,45
+39,Downtown Retail Council,8608.2554097345,http://cleanandsafepdx.com/about/about-the-district.html,No,"200 SW Market Street, Suite 150",<Null>,Portland,OR,97201,Yes,Business District,59
+40,Williams District,9888.75464223498,http://williamsdistrict.com/,Yes,"c/o Venture Portland, 1125 SE Madison St",Suite 112,Portland,OR,97214,Yes,Business District,58
+41,82nd Avenue,20786.3293565119,http://discover82ndave.com/,Yes,PO Box 86775,<Null>,Portland,OR,97286-0775,Yes,Business District,9
+42,Jade District,7580.73116737979,http://www.jadedistrict.org/,No,2788 SE 82nd Ave,Suite 203,Portland,OR,97266,Yes,NPI/Main Street,49
+43,Kerns,6787.60276184553,http://ventureportland.org/business-districts/our-members/kerns/,No,<Null>,<Null>,Portland,OR,<Null>,No,Emerging District,
+44,Old Town Community Association,4977.69421377403,http://pdxoldtown.org/,Yes,2257 NW Raleigh St,<Null>,Portland,OR,97210,Yes,Business District,35
+45,Foster Area,9506.18801607252,https://fosterarea.com/,Yes,"c/o Venture Portland, 1125 SE Madison",Suite 112,Portland,OR,97214,Yes,Business District,10
+46,Our 42nd Avenue,7710.01331534684,http://www.42ave.org/,No,5140A NE 42nd Ave,<Null>,Portland,OR,97218,Yes,NPI/Main Street,53
+47,Columbia Corridor,111906.297204923,http://www.columbiacorridor.org/,No,PO Box 86775,,Portland,OR,97286,Yes,Business District,5
+48,St. Johns Boosters,35649.1257036893,https://stjohnsboosters.org/,Yes,7825 N Lombard St,Suite A,Portland,OR,97203,Yes,Business District,31
+49,St. Johns Center For Opportunity,4141.07958340781,http://www.stjohnsopportunity.org/,No,8160 N Jersey St,<Null>,Portland,OR,97203,Yes,NPI/Main Street,40
