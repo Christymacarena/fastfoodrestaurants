@@ -1,28 +1,27 @@
-# fastfoodrestaurants
-How to research new Geography market (US in the case) and where to open restaurants there?
-Here is my easy and scalable script research.
+<h1>Researching New Markets: A Guide to Opening Restaurants in the US</h1>
+Ready to expand your restaurant chain to new horizons? With our easy and scalable script research, you'll uncover the perfect locations to launch your next dining venture across the United States.
 
-So imagine that you have easy going restaurant chain in one Country. But to infinity and beyond!
-Here is a script of how you can proceed with quolity research and visualisation.
-*Inside is quite detailed step by step description buuuut, main goals of the Code:
+#About the Dataset
+The fastfoodrestaurants dataset is your gateway to informed decision-making. It provides comprehensive insights into the US market, allowing you to strategically identify prime locations for your restaurants.
 
-1. Washing data and merging data together - because we have 3 diffrent datasets.
+Key Objectives:
+1. Data Fusion and Cleansing: Merge and refine three datasets to ensure accurate and reliable information for your analysis.
 
-![image](https://user-images.githubusercontent.com/110884096/236779408-5bbb957f-d9f6-403a-ad22-63736782479e.png)
+<img src="https://user-images.githubusercontent.com/110884096/236779408-5bbb957f-d9f6-403a-ad22-63736782479e.png" alt="Data Fusion" width="400" />
 
-2. Actualizing data with date visualization research
+2. Visualizing Market Trends: Dive into date visualization research to stay updated on current market dynamics and trends.
 
-3. Choose besties
+3. Identifying Optimal Locations: Utilize advanced analysis techniques to pinpoint the best locations for your restaurants.
 
 ![image](https://user-images.githubusercontent.com/110884096/236780107-46e8ebcd-a337-4fde-aac7-dfdbc4867853.png)
 
 ![image](https://user-images.githubusercontent.com/110884096/236791965-ad8f4165-27b5-46c4-98f3-d8648d877063.png)
 
-4. So after all manipulation we have a map, where we can see how many restaurants exist per each neighbourhood
+4. Neighborhood Analysis: Explore a detailed map showcasing restaurant density across various neighborhoods, guiding your decision-making process.
 
 ![image](https://user-images.githubusercontent.com/110884096/236792430-41f91af5-3142-42cc-b432-25b3e809858a.png)
 
-And we can choose where to open though:
+Make data-driven choices on where to open your next restaurant:
 
 ![image](https://user-images.githubusercontent.com/110884096/236792679-19f625e6-6343-4e94-9675-cf34d5e2b143.png)
 
